@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    background-color: #D7EAFC;
+    color: #214875;
+}
+
+body{
+    background-color: #ABCFDE;
+}
+
+.imagemdireita1{
+    position: absolute;
+    width: 666px;
+    height: 600px;
+    left: 1200px;
+    top: 158px;
+    border-end-end-radius: 51px;
+    border-top-left-radius: 51px;
+    border-top-right-radius: 51px;
+    border-bottom-left-radius: 51px;
+}
+
+.tituloprincipal{
+    font-size: 58px;
+    position: relative;
+    left: 1000px;
+    top: 20px;
+    font-family: laila;
+}
+
+.cabesalho{
+    position: absolute;
+    width: 1950px;
+    height: 100px;
+}
+
+.texto1{
+    font-size: 40px;
+    position: relative;
+    top: 50px;
+    font-family: laila;
+    
+}
+
+.titulo2{
+  position: relative;
+  font-size: 50px;
+  top: 64px;
+  left: 86px;
+  color: #214875;
+}
+
+.texto2{
+    font-size: 40px;
+    position: relative;
+    top: 64px;
+    left: 86px;
+    width: 1000px;
+    font-style: italic;
+}
+
+.imagenimferior{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 86px;
+    top: 645px;
+    border-end-end-radius: 51px;
+    border-top-left-radius: 51px;
+    border-top-right-radius: 51px;
+    border-bottom-left-radius: 51px;
+}
+
+.imagenimferior2{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 450px;
+    top: 645px;
+    border-end-end-radius: 51px;
+    border-top-left-radius: 51px;
+    border-top-right-radius: 51px;
+    border-bottom-left-radius: 51px;
+}
+
+.imagenimferior3{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 830px;
+    top: 645px;
+    border-end-end-radius: 51px;
+    border-top-left-radius: 51px;
+    border-top-right-radius: 51px;
+    border-bottom-left-radius: 51px;
+}
