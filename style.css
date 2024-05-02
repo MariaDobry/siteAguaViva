@@ -5,12 +5,12 @@
 
 
 header{
-    background-color: #D7EAFC;
-    color: #214875;
+    background-color: #8387c0;
+    color: #42466e;
 }
 
 body{
-    background-color: #ABCFDE;
+    background-color: #afb2ed;
 }
 
 .imagemdireita1{
@@ -28,14 +28,14 @@ body{
 .tituloprincipal{
     font-size: 58px;
     position: relative;
-    left: 1000px;
-    top: 20px;
+    left: 85px;
+    top: 5px;
     font-family: laila;
 }
 
 .cabesalho{
     position: absolute;
-    width: 1950px;
+    width: 1925px;
     height: 100px;
 }
 
@@ -52,7 +52,7 @@ body{
   font-size: 50px;
   top: 64px;
   left: 86px;
-  color: #214875;
+  color: #42466e;
 }
 
 .texto2{
